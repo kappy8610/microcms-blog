@@ -11,7 +11,7 @@ const FotterWrapper = styled.footer`
 `
 
 const Footer: VFC = () => {
-  return <FotterWrapper>©️ Suiki Sekiya 2022.</FotterWrapper>
+  return <FotterWrapper>©️ Haruto Uchiyama 2022.</FotterWrapper>
 }
 
 export default Footer
